@@ -1,0 +1,31 @@
+.logo-smart-buy {
+    width: 230px;
+    height: 110px;
+}
+
+.nuv-bar-main {
+    background-color: black !important;
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 30px;
+}
+
+.css-1m20j1c-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    color: #0097B2 !important;
+    font-weight: bold !important;
+}
+
+.makeStyles-tab-2 {
+    color: white !important;
+}
+.MuiTab-root{
+    color: white !important;
+}
+
+.css-11yukd5-MuiTabs-indicator {
+    background-color: #0097B2 !important;
+}
+.all-tabs{
+    width: 60%;
+}

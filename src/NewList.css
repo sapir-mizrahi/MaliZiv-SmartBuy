@@ -1,0 +1,55 @@
+.add-item-div {
+    width: 100%;
+    margin: 20px;
+    display: flex;
+}
+
+.input-list {
+    width: 45%;
+}
+
+.add-button-div {
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-save-list {
+    width: 100%;
+    background-color: #0097B2 !important;
+}
+
+.shoppint-cart-icon {
+    color: #038948;
+    font-size: 19px;
+    margin: 5px 20px;
+}
+
+.icon-add {
+    font-size: 40px;
+    cursor: pointer;
+    color: #038948;
+    background-color: #eee8e8;
+    border-radius: 50%;
+}
+
+h2 {
+    color: #888684;
+    text-shadow: 1px 0px #1aab11;
+}
+
+.icon-saved {
+    margin: 5px auto;
+    display: flex;
+    font-size: 35px;
+    border: 3px solid;
+    padding: 5px;
+    border-radius: 50%;
+}
+.css-heg063-MuiTabs-flexContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 40px;
+}

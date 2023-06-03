@@ -1,0 +1,22 @@
+.all-history-lists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+
+.list-subheader {
+    color: #0097B2 !important;
+    font-weight: bold !important;
+    font-size: 18px !important;
+    font-family: monospace !important;
+}
+
+.icon-expand {
+    display: flex;
+    margin-left: 15px;
+    font-size: 22px;
+    color: #1aab11;
+    margin-top: 15px;
+    cursor: pointer;
+}

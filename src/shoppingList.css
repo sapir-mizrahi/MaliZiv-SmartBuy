@@ -1,0 +1,122 @@
+.list-of-products {
+    background-color: #f8f8f8;
+    border-radius: 20px;
+    padding: 20px;
+    color: #7c7979;
+    width: 300px;
+    margin: auto;
+}
+
+.shoppint-cart-icon {
+    color: #038948;
+    font-size: 19px;
+    margin: 5px 20px;
+}
+
+.btn-add-product {
+    background-color: #038948;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-add-product:hover {
+    background-color: #0097B2;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.add-icon {
+    color: #1aab11;
+    margin: 3px;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.delete-icon {
+    color: #e45242;
+    margin: 3px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.btn-edit-shopping-list {
+    padding: 5px;
+    margin: 15px;
+    background: linear-gradient(#0097B2, #9d9a9a);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn-save-shopping-list {
+    display: flex;
+    flex-direction: row;
+    width: 85px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #038948;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 30px;
+    border: 2px solid #038948;
+    cursor: pointer;
+}
+
+.btn-cencel {
+    display: flex;
+    flex-direction: row;
+    width: 85px;
+    align-items: center;
+    justify-content: space-around;
+    color: #038948;
+    background-color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 30px;
+    border: 2px solid #038948;
+    cursor: pointer;
+}
+
+.btns-edit {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.item-of-list {
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.icons-div {
+    display: flex;
+}
+
+.input-add {
+    height: 30px;
+    margin: 0 10px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.add-current-icon {
+    color: #4a9beb;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.div-add-pro {
+    display: flex;
+    align-items: center;
+}
